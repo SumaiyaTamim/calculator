@@ -1,0 +1,30 @@
+.container{
+    background-color: #F33A6A;
+   
+    height: 510px;
+  
+    margin: auto;
+    width: 35%;
+    box-shadow: 5px 5px 5px 5px #D3D3D3;
+    padding: 10px;
+     
+    
+}
+button{
+    width: 100px;
+    height: 95px;
+    margin: 3px;
+    font-size: 24px;
+    border-radius: 4px;
+    border-style: none;
+    box-shadow: 1px 1px 1px 1px #D3D3D3;
+}
+.screen{
+    width: 430px;
+    height: 100px;
+    background-color: #A9A9A9;
+    margin: 2px;
+    border-radius: 4px;
+    border-style: none;
+    box-shadow: 1px 1px 1px 1px #D3D3D3;
+}
